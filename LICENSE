@@ -1,0 +1,14 @@
+Memora Engine Attribution License 1.0
+
+Copyright (c) 2026 metiric
+
+Permission is hereby granted, free of charge, to anyone obtaining a copy of the Memora Engine core, to use, copy, modify, combine, publish, distribute, sublicense, and sell the core or modified versions, for any purpose, including in commercial and closed-source products, subject only to the attribution condition below. You do not have to publish your source code or modifications.
+
+Attribution condition. When you make the core, a modified version of it, or a product powered by it available to others, include the credit “Powered by Memora Engine” with a link to https://github.com/metiric/memora-engine as follows:
+
+- For a product with a user interface, display the credit as a readable, clickable link in a place users can readily find in normal use, such as the footer or an About page clearly linked from the navigation or footer. This applies on mobile where supported. Source code, a README, or a tooltip alone is not sufficient for a product with a user interface.
+- For a standalone source distribution or a product without a user interface, display the credit and URL in the accompanying README or other documentation readily available to recipients or users.
+
+No public credit is required for private use, development, or testing that is not made available to others. No logo is required.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.

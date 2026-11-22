@@ -9,7 +9,7 @@
 
 **Memora Engine** is a JavaScript core for role-playing chats powered by language models. It builds turn context from the active conversation branch, explicit player rules, memories, and scene state. The same file runs in Node.js and in browsers without third-party runtime dependencies or API keys.
 
-> Local release candidate. No public GitHub or npm release. See [the attribution proposal](docs/ATTRIBUTION.md); no final license is granted by this draft.
+> Local release candidate. No public GitHub or npm release. The core is available under the [attribution license](LICENSE); see the [credit guide](docs/ATTRIBUTION.md).
 
 ## Quick start
 

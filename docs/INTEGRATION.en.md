@@ -21,4 +21,4 @@ npm run test:group
 
 The patch loads the shared module before both browser adapters. Its server adapter also uses the existing byte budget instead of a fixed 80-message cap when merging personal chat history. It does not change the group cap, restore history already discarded, or enable the public group route.
 
-The candidate was tested locally with synthetic conversations, a 102-message storage round trip, and mock providers. The archive excludes production data, credentials, and deployment scripts. The attribution proposal is not a license grant; select and review the final terms before publishing.
+The candidate was tested locally with synthetic conversations, a 102-message storage round trip, and mock providers. The archive excludes production data, credentials, and deployment scripts. The core license and credit placement are described in [Attribution](ATTRIBUTION.md).
