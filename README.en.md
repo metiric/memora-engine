@@ -11,6 +11,8 @@
 
 > Local release candidate. No public GitHub or npm release. The core is available under the [attribution license](LICENSE); see the [credit guide](docs/ATTRIBUTION.md).
 
+[Step-by-step integration guide](docs/GUIDE.en.md) · [Runnable adapter example](examples/chat-adapter.cjs)
+
 ## Quick start
 
 From the extracted archive:
